@@ -7,8 +7,6 @@ sharing: false
 footer: false
 ---
 
-{% img right http://www.gravatar.com/avatar/0ebb9e4a763c8416dda5e02529ea0157.png?s=250 %}Hi there! I'm Alex. Software Engineer and Msc student of Computer Science working on [Crawljax](http://crawljax.com). In this blog I share my experiences in the tech field in the hope that somebody else can benefit from it as I benefit from the many other tech blogs out there.
+Op deze blog vindt je recepten van mij. Sommige zijn zelf verzonnen, andere zijn afgekeken. Deze blog is er met name zodat ik zelf niet vergeet hoe ik bepaalde dingen heb gemaakt, of voor als ik niet weet wat ik vandaag ga koken.
 
-You can also read about me on my [Open Source report card](http://osrc.dfm.io/alexnederlof).
-
-You can also find me on [Twitter](http://twitter.com/alexnederlof), [GitHub](https://github.com/alexnederlof) and [LinkedIn](http://nl.linkedin.com/in/alexnederlof).
+In het dagelijks leven ben ik programmeur. Bezoek daarvoor mijn [andere blog](http://alex.nederlof.com).
