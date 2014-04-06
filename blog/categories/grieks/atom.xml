@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Grieks | Kookboek]]></title>
+  <link href="http://kookboek.nederlof.com/kookboek/blog/categories/grieks/atom.xml" rel="self"/>
+  <link href="http://kookboek.nederlof.com/kookboek/"/>
+  <updated>2014-04-06T23:03:14+02:00</updated>
+  <id>http://kookboek.nederlof.com/kookboek/</id>
+  <author>
+    <name><![CDATA[Alex Nederlof]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Broodje Gyros]]></title>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/09/01/broodje-gyros/"/>
+    <updated>2013-09-01T18:48:00+02:00</updated>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2013/09/01/broodje-gyros</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/broodje-gyros.jpg" title="" ></p>
+
+<!--more-->
+
+
+<h2>Ingrediënten</h2>
+
+<ul>
+<li>Groot brood halen bij de Turkse bakker. Kan ook met ciabatta</li>
+<li>Rode ui</li>
+<li>Rode kool</li>
+<li>Feta</li>
+<li>Groene pepers (niet paprika, maar ook niet die hete)</li>
+<li>Gyros (maar kan ook kalkoen- of kipshoarma)</li>
+<li>Tzatziki van yoghurt, komkommer, knoflook en een stevige olijfolie</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
