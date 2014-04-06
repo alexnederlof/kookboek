@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Brood | Kookboek]]></title>
-  <link href="http://kookboek.nederlof.com/kookboek/blog/categories/brood/atom.xml" rel="self"/>
-  <link href="http://kookboek.nederlof.com/kookboek/"/>
-  <updated>2014-04-06T23:03:14+02:00</updated>
-  <id>http://kookboek.nederlof.com/kookboek/</id>
+  <link href="http://alex.nederlof.com/kookboek/blog/categories/brood/atom.xml" rel="self"/>
+  <link href="http://alex.nederlof.com/kookboek/"/>
+  <updated>2014-04-06T23:07:36+02:00</updated>
+  <id>http://alex.nederlof.com/kookboek/</id>
   <author>
     <name><![CDATA[Alex Nederlof]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Zuurdesembrood met rosbief, truffelpasta, champions]]></title>
-    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel/"/>
+    <link href="http://alex.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel/"/>
     <updated>2013-12-15T16:01:00+01:00</updated>
-    <id>http://kookboek.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel</id>
+    <id>http://alex.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel</id>
     <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/zuurdesum-rosbief.jpg" title="" ></p>
 
 <!--more-->
@@ -39,9 +39,9 @@
   
   <entry>
     <title type="html"><![CDATA[Broodje Hummus]]></title>
-    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus/"/>
+    <link href="http://alex.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus/"/>
     <updated>2013-08-24T16:12:00+02:00</updated>
-    <id>http://kookboek.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus</id>
+    <id>http://alex.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus</id>
     <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/broodje-hummus.jpg" title="" ></p>
 
 <!--more-->

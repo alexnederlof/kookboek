@@ -1,49 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://kookboek.nederlof.com/kookboek/blog/2013/07/08/vrolijke-fruitsalade/</loc>
+        <loc>http://alex.nederlof.com/kookboek/blog/2013/07/08/vrolijke-fruitsalade/</loc>
         <lastmod>2014-04-06T22:55:09+02:00</lastmod>
     </url>
     <url>
-        <loc>http://kookboek.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus/</loc>
+        <loc>http://alex.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus/</loc>
         <lastmod>2014-04-06T22:55:09+02:00</lastmod>
     </url>
     <url>
-        <loc>http://kookboek.nederlof.com/kookboek/blog/2013/09/01/broodje-gyros/</loc>
+        <loc>http://alex.nederlof.com/kookboek/blog/2013/09/01/broodje-gyros/</loc>
         <lastmod>2014-04-06T22:55:09+02:00</lastmod>
     </url>
     <url>
-        <loc>http://kookboek.nederlof.com/kookboek/blog/2013/12/11/snelle-gado-gado/</loc>
+        <loc>http://alex.nederlof.com/kookboek/blog/2013/12/11/snelle-gado-gado/</loc>
+        <lastmod>2014-04-06T22:55:09+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://alex.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel/</loc>
         <lastmod>2014-04-06T22:55:09+02:00</lastmod>
     </url>
     <url>
         <loc>
-            http://kookboek.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel/
+            http://alex.nederlof.com/kookboek/blog/2014/04/06/gekarameliseerde-pecannoten-salade/
         </loc>
         <lastmod>2014-04-06T22:55:09+02:00</lastmod>
     </url>
     <url>
         <loc>
-            http://kookboek.nederlof.com/kookboek/blog/2014/04/06/gekarameliseerde-pecannoten-salade/
-        </loc>
-        <lastmod>2014-04-06T22:55:09+02:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://kookboek.nederlof.com/kookboek/blog/2014/04/06/moeders-thaise-biefstuk-salade/
+            http://alex.nederlof.com/kookboek/blog/2014/04/06/moeders-thaise-biefstuk-salade/
         </loc>
         <lastmod>2014-04-06T22:59:05+02:00</lastmod>
     </url>
     <url>
-        <loc>http://kookboek.nederlof.com/kookboek/about/</loc>
+        <loc>http://alex.nederlof.com/kookboek/about/</loc>
         <lastmod>2014-04-06T22:55:09+02:00</lastmod>
     </url>
     <url>
-        <loc>http://kookboek.nederlof.com/kookboek/blog/archives/</loc>
+        <loc>http://alex.nederlof.com/kookboek/blog/archives/</loc>
         <lastmod>2014-04-06T22:59:05+02:00</lastmod>
     </url>
     <url>
-        <loc>http://kookboek.nederlof.com/kookboek/</loc>
+        <loc>http://alex.nederlof.com/kookboek/</loc>
         <lastmod>2014-04-06T22:59:05+02:00</lastmod>
     </url>
 </urlset>
