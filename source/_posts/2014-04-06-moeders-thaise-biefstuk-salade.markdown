@@ -6,7 +6,8 @@ comments: true
 categories: [Sla, Thais]
 ---
 
-Moeders Thaise biefstuk salade!
+{% img col-sm-12 img-responsive /images/posts/thaise-biefstuk-salade-bord.jpg  %}
+
 
 <!--more-->
 
@@ -30,6 +31,8 @@ Moeders Thaise biefstuk salade!
 - sap van een halve of 1 limoen. Andere limoen op bord leggen.
 - 1 a 2 eetlepels vissaus of kikkoman
 - scheut sesamolie
+
+{% img col-sm-12 img-responsive /images/posts/thaise-biefstuk-salade-plank.jpg  %}
 
 bovenstaande onderdelen mengen in de keukenmachine of de vaste onderdelen eerst in de vijzel en daarna mengen met de vloeistoffen
 
