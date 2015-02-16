@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Kookboek]]></title>
-  <link href="http://alex.nederlof.com/kookboek/atom.xml" rel="self"/>
-  <link href="http://alex.nederlof.com/kookboek/"/>
-  <updated>2014-04-24T21:24:47+02:00</updated>
-  <id>http://alex.nederlof.com/kookboek/</id>
+  <link href="http://kookboek.nederlof.com/kookboek/atom.xml" rel="self"/>
+  <link href="http://kookboek.nederlof.com/kookboek/"/>
+  <updated>2015-02-16T09:49:08+01:00</updated>
+  <id>http://kookboek.nederlof.com/kookboek/</id>
   <author>
     <name><![CDATA[Alex Nederlof]]></name>
     
@@ -14,11 +14,58 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Frisse Marokkaanse rijst met kip]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2014/04/24/frisse-marokkaans-rijst-met-kip/"/>
+    <title type="html"><![CDATA[Frisse marrokaanse rijst met kip]]></title>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2014/04/24/snelle-marrokaanse-couscous/"/>
     <updated>2014-04-24T20:53:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2014/04/24/frisse-marokkaans-rijst-met-kip</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/marokkaans-kip-rijst-bord.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2014/04/24/snelle-marrokaanse-couscous</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/marrokaans-couscous.jpg" title="" ></p>
+
+<!--more-->
+
+
+<h2>Ingrediënten</h2>
+
+<p>Voor drie borden:</p>
+
+<ul>
+<li>350 gram lamsgehakt</li>
+<li>1 Witte ui</li>
+<li>Knoflook</li>
+<li>Lekkere tomaten uit blik</li>
+<li>Gedroogde abrikozen</li>
+<li>Verse munt</li>
+<li>bos</li>
+<li>Ras el Hanout kruiden</li>
+<li>yoghurt</li>
+</ul>
+
+
+<p>Voor de salade:</p>
+
+<ul>
+<li>Een broccoli</li>
+<li>Feta</li>
+<li>Paprika</li>
+<li>Verse munt</li>
+</ul>
+
+
+<h2>Bereiding:</h2>
+
+<p>Bak het gehakt met de ui. Voeg er als het bijna klaar is ook de knoflook aan toe. Voeg dan als het gehakt bruin is de tomaten en gesneden gedroogde abrikozen aantoen. Als je een <a href="http://en.wikipedia.org/wiki/Tajine">Tajine</a> hebt gooi het dan daar in (alvorens hem al helemaal warm gemaakt te hebben). Voeg er als laatste nog Ras el Hanout kruiden aan toe. Laat dit in ieder geval 15 minuten pruttelen.</p>
+
+<p>Kook ondertussen de broccoli en laat hem dan weer helemaal uitlekken, droog worden en afkoelen. Voeg daar de feta, stukjes paprika en munt aan toe. Ik voeg er ook knoflook zout aan toe maar normale grove stukken zou zijn ook erg lekker.</p>
+
+<p>Maak de couscous volgens de verpakking gaar. Als het lamsprutje goed smaakt voeg dan de couscous er aan toen. Schep het op de borden en doe er de munt en bosui overheen. Serveer met een beetje yoghurt.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Frisse Marokkaanse rijst met kip]]></title>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2014/04/24/frisse-marokkaans-rijst-met-kip/"/>
+    <updated>2014-04-24T20:53:00+02:00</updated>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2014/04/24/frisse-marokkaans-rijst-met-kip</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/marokkaans-kip-rijst-bord.jpg" title="" ></p>
 
 <!--more-->
 
@@ -44,7 +91,7 @@
 </ul>
 
 
-<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/marokkaans-kip-rijst-plank.jpg" title="" ></p>
+<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/marokkaans-kip-rijst-plank.jpg" title="" ></p>
 
 <h2>Bereiding:</h2>
 
@@ -65,10 +112,10 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
   
   <entry>
     <title type="html"><![CDATA[Moeders Thaise biefstuk salade]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2014/04/06/moeders-thaise-biefstuk-salade/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2014/04/06/moeders-thaise-biefstuk-salade/"/>
     <updated>2014-04-06T09:40:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2014/04/06/moeders-thaise-biefstuk-salade</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/thaise-biefstuk-salade-bord.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2014/04/06/moeders-thaise-biefstuk-salade</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/thaise-biefstuk-salade-bord.jpg" title="" ></p>
 
 <!--more-->
 
@@ -100,7 +147,7 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
 </ul>
 
 
-<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/thaise-biefstuk-salade-plank.jpg" title="" ></p>
+<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/thaise-biefstuk-salade-plank.jpg" title="" ></p>
 
 <p>bovenstaande onderdelen mengen in de keukenmachine of de vaste onderdelen eerst in de vijzel en daarna mengen met de vloeistoffen</p>
 
@@ -129,10 +176,10 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
   
   <entry>
     <title type="html"><![CDATA[Gekarameliseerde pecannoten salade]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2014/04/06/gekarameliseerde-pecannoten-salade/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2014/04/06/gekarameliseerde-pecannoten-salade/"/>
     <updated>2014-04-06T09:24:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2014/04/06/gekarameliseerde-pecannoten-salade</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/pecan-noten-salade-bord.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2014/04/06/gekarameliseerde-pecannoten-salade</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/pecan-noten-salade-bord.jpg" title="" ></p>
 
 <!--more-->
 
@@ -141,7 +188,7 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
 
 <p>Snij &amp; meng de andere ingrediënten, maak de dressing op en gooi alles bij elkaar!</p>
 
-<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/pecan-noten-salade-maken.jpg" title="" ></p>
+<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/pecan-noten-salade-maken.jpg" title="" ></p>
 
 <h2>Ingrediënten</h2>
 
@@ -183,10 +230,10 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
   
   <entry>
     <title type="html"><![CDATA[Zuurdesembrood met rosbief, truffelpasta, champions]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel/"/>
     <updated>2013-12-15T16:01:00+01:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/zuurdesum-rosbief.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/zuurdesum-rosbief.jpg" title="" ></p>
 
 <!--more-->
 
@@ -207,10 +254,10 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
   
   <entry>
     <title type="html"><![CDATA[Snelle Gado Gado]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2013/12/11/snelle-gado-gado/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/12/11/snelle-gado-gado/"/>
     <updated>2013-12-11T15:56:00+01:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2013/12/11/snelle-gado-gado</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/snelle-gado-gado.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2013/12/11/snelle-gado-gado</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/snelle-gado-gado.jpg" title="" ></p>
 
 <!--more-->
 
@@ -239,10 +286,10 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
   
   <entry>
     <title type="html"><![CDATA[Broodje Gyros]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2013/09/01/broodje-gyros/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/09/01/broodje-gyros/"/>
     <updated>2013-09-01T18:48:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2013/09/01/broodje-gyros</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/broodje-gyros.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2013/09/01/broodje-gyros</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/broodje-gyros.jpg" title="" ></p>
 
 <!--more-->
 
@@ -264,10 +311,10 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
   
   <entry>
     <title type="html"><![CDATA[Broodje Hummus]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus/"/>
     <updated>2013-08-24T16:12:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/broodje-hummus.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/broodje-hummus.jpg" title="" ></p>
 
 <!--more-->
 
@@ -289,10 +336,10 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
   
   <entry>
     <title type="html"><![CDATA[Vrolijke fruitsalade]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2013/07/08/vrolijke-fruitsalade/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/07/08/vrolijke-fruitsalade/"/>
     <updated>2013-07-08T16:20:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2013/07/08/vrolijke-fruitsalade</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/vrolijke-fruitsalade.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2013/07/08/vrolijke-fruitsalade</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/vrolijke-fruitsalade.jpg" title="" ></p>
 
 <!--more-->
 

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Snel | Kookboek]]></title>
-  <link href="http://alex.nederlof.com/kookboek/blog/categories/snel/atom.xml" rel="self"/>
-  <link href="http://alex.nederlof.com/kookboek/"/>
-  <updated>2014-04-24T21:24:47+02:00</updated>
-  <id>http://alex.nederlof.com/kookboek/</id>
+  <link href="http://kookboek.nederlof.com/kookboek/blog/categories/snel/atom.xml" rel="self"/>
+  <link href="http://kookboek.nederlof.com/kookboek/"/>
+  <updated>2015-02-16T09:49:08+01:00</updated>
+  <id>http://kookboek.nederlof.com/kookboek/</id>
   <author>
     <name><![CDATA[Alex Nederlof]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Zuurdesembrood met rosbief, truffelpasta, champions]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel/"/>
     <updated>2013-12-15T16:01:00+01:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel</id>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel</id>
     <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/zuurdesum-rosbief.jpg" title="" ></p>
 
 <!--more-->
@@ -39,9 +39,9 @@
   
   <entry>
     <title type="html"><![CDATA[Snelle Gado Gado]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2013/12/11/snelle-gado-gado/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/12/11/snelle-gado-gado/"/>
     <updated>2013-12-11T15:56:00+01:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2013/12/11/snelle-gado-gado</id>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2013/12/11/snelle-gado-gado</id>
     <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/snelle-gado-gado.jpg" title="" ></p>
 
 <!--more-->
@@ -71,9 +71,9 @@
   
   <entry>
     <title type="html"><![CDATA[Broodje Hummus]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus/"/>
     <updated>2013-08-24T16:12:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus</id>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus</id>
     <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/broodje-hummus.jpg" title="" ></p>
 
 <!--more-->
