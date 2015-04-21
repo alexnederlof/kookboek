@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Amerikaans | Kookboek]]></title>
-  <link href="http://kookboek.nederlof.com/kookboek/blog/categories/amerikaans/atom.xml" rel="self"/>
-  <link href="http://kookboek.nederlof.com/kookboek/"/>
-  <updated>2015-02-16T09:49:08+01:00</updated>
-  <id>http://kookboek.nederlof.com/kookboek/</id>
+  <link href="http://alex.nederlof.com/kookboek/blog/categories/amerikaans/atom.xml" rel="self"/>
+  <link href="http://alex.nederlof.com/kookboek/"/>
+  <updated>2015-04-21T21:54:35+02:00</updated>
+  <id>http://alex.nederlof.com/kookboek/</id>
   <author>
     <name><![CDATA[Alex Nederlof]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Gekarameliseerde pecannoten salade]]></title>
-    <link href="http://kookboek.nederlof.com/kookboek/blog/2014/04/06/gekarameliseerde-pecannoten-salade/"/>
+    <link href="http://alex.nederlof.com/kookboek/blog/2014/04/06/gekarameliseerde-pecannoten-salade/"/>
     <updated>2014-04-06T09:24:00+02:00</updated>
-    <id>http://kookboek.nederlof.com/kookboek/blog/2014/04/06/gekarameliseerde-pecannoten-salade</id>
+    <id>http://alex.nederlof.com/kookboek/blog/2014/04/06/gekarameliseerde-pecannoten-salade</id>
     <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/pecan-noten-salade-bord.jpg" title="" ></p>
 
 <!--more-->

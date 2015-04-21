@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Rijst | Kookboek]]></title>
-  <link href="http://kookboek.nederlof.com/kookboek/blog/categories/rijst/atom.xml" rel="self"/>
-  <link href="http://kookboek.nederlof.com/kookboek/"/>
-  <updated>2015-02-16T09:49:08+01:00</updated>
-  <id>http://kookboek.nederlof.com/kookboek/</id>
+  <link href="http://alex.nederlof.com/kookboek/blog/categories/rijst/atom.xml" rel="self"/>
+  <link href="http://alex.nederlof.com/kookboek/"/>
+  <updated>2015-04-21T21:54:35+02:00</updated>
+  <id>http://alex.nederlof.com/kookboek/</id>
   <author>
     <name><![CDATA[Alex Nederlof]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Frisse Marokkaanse rijst met kip]]></title>
-    <link href="http://kookboek.nederlof.com/kookboek/blog/2014/04/24/frisse-marokkaans-rijst-met-kip/"/>
+    <link href="http://alex.nederlof.com/kookboek/blog/2014/04/24/frisse-marokkaans-rijst-met-kip/"/>
     <updated>2014-04-24T20:53:00+02:00</updated>
-    <id>http://kookboek.nederlof.com/kookboek/blog/2014/04/24/frisse-marokkaans-rijst-met-kip</id>
+    <id>http://alex.nederlof.com/kookboek/blog/2014/04/24/frisse-marokkaans-rijst-met-kip</id>
     <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/marokkaans-kip-rijst-bord.jpg" title="" ></p>
 
 <!--more-->

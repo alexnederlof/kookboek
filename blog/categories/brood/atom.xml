@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Brood | Kookboek]]></title>
-  <link href="http://kookboek.nederlof.com/kookboek/blog/categories/brood/atom.xml" rel="self"/>
-  <link href="http://kookboek.nederlof.com/kookboek/"/>
-  <updated>2015-02-16T09:49:08+01:00</updated>
-  <id>http://kookboek.nederlof.com/kookboek/</id>
+  <link href="http://alex.nederlof.com/kookboek/blog/categories/brood/atom.xml" rel="self"/>
+  <link href="http://alex.nederlof.com/kookboek/"/>
+  <updated>2015-04-21T21:54:35+02:00</updated>
+  <id>http://alex.nederlof.com/kookboek/</id>
   <author>
     <name><![CDATA[Alex Nederlof]]></name>
     
@@ -14,10 +14,97 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Lamsworstjes met zure sla]]></title>
+    <link href="http://alex.nederlof.com/kookboek/blog/2015/04/21/lamsworstjes-zure-sla/"/>
+    <updated>2015-04-21T20:53:00+02:00</updated>
+    <id>http://alex.nederlof.com/kookboek/blog/2015/04/21/lamsworstjes-zure-sla</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/lamsworkstjes-zure-sla.jpg" title="" ></p>
+
+<!--more-->
+
+
+<h2>Ingrediënten</h2>
+
+<p>Voor 3 borden:</p>
+
+<ul>
+<li>Lamsworstjes</li>
+<li>Eikenbladsla</li>
+<li>Amsterdamse uitjes</li>
+<li>Auguren</li>
+<li>Kappertjes</li>
+<li>oude kaas</li>
+<li>Paprika</li>
+<li>Peterselie</li>
+<li>Artisjokkenharten</li>
+</ul>
+
+
+<p>Voor de saus:</p>
+
+<ul>
+<li>Kwark</li>
+<li>Bieslook</li>
+<li>Zure mayo</li>
+</ul>
+
+
+<p>Aardappeltjes of stookbroodje kruidenboter er bij is lekker!</p>
+
+<h2>Bereiding:</h2>
+
+<p>Worstjes en aardappeltjes bakken (apart). Ondertussen de bieslook kleinsneiden en saus van maken. Beetje peper en zout er bij natuurlijk.</p>
+
+<p>De slade maken van de ingrediënten met een klein beetje olijfolie en eventueel een beetje wittewijn azijn. Peterselie en bieslook hakken en er ook doorheen doen.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Broodje Ros]]></title>
+    <link href="http://alex.nederlof.com/kookboek/blog/2015/04/20/broodje-ros/"/>
+    <updated>2015-04-20T20:53:00+02:00</updated>
+    <id>http://alex.nederlof.com/kookboek/blog/2015/04/20/broodje-ros</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/broodje-ros.jpg" title="" ></p>
+
+<!--more-->
+
+
+<h2>Ingrediënten</h2>
+
+<p>Voor 2 borden:</p>
+
+<ul>
+<li>3 bruine &ldquo;triangel&rdquo; broodjes</li>
+<li>Lente paddestoelen</li>
+<li>Cherry tomaatjes</li>
+<li>Rosbief</li>
+<li>Eikenbladsla</li>
+<li>Amsterdamse uitjes</li>
+</ul>
+
+
+<p>Voor de saus:</p>
+
+<ul>
+<li>Kwark</li>
+<li>Bieslook</li>
+<li>Zure mayo</li>
+</ul>
+
+
+<h2>Bereiding:</h2>
+
+<p>Cherry tomaatjes in de oven tot ze helemaal kapot zijn. Dan af laten koelen. Ondertussen de bieslook kleinsneiden en de dressing/saus van maken. Beetje peper en zout er bij natuurlijk.</p>
+
+<p>Daarna alles stapelen en homnomnom.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Zuurdesembrood met rosbief, truffelpasta, champions]]></title>
-    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel/"/>
+    <link href="http://alex.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel/"/>
     <updated>2013-12-15T16:01:00+01:00</updated>
-    <id>http://kookboek.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel</id>
+    <id>http://alex.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel</id>
     <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/zuurdesum-rosbief.jpg" title="" ></p>
 
 <!--more-->
@@ -39,9 +126,9 @@
   
   <entry>
     <title type="html"><![CDATA[Broodje Hummus]]></title>
-    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus/"/>
+    <link href="http://alex.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus/"/>
     <updated>2013-08-24T16:12:00+02:00</updated>
-    <id>http://kookboek.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus</id>
+    <id>http://alex.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus</id>
     <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/broodje-hummus.jpg" title="" ></p>
 
 <!--more-->
