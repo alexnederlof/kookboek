@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Kookboek]]></title>
-  <link href="http://alex.nederlof.com/kookboek/atom.xml" rel="self"/>
-  <link href="http://alex.nederlof.com/kookboek/"/>
-  <updated>2015-05-09T13:27:07+02:00</updated>
-  <id>http://alex.nederlof.com/kookboek/</id>
+  <link href="http://kookboek.nederlof.com/kookboek/atom.xml" rel="self"/>
+  <link href="http://kookboek.nederlof.com/kookboek/"/>
+  <updated>2015-05-09T13:36:39+02:00</updated>
+  <id>http://kookboek.nederlof.com/kookboek/</id>
   <author>
     <name><![CDATA[Alex Nederlof]]></name>
     
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Lamsworstjes met zure sla]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2015/05/09/gegrilde-groente-pasta/"/>
+    <title type="html"><![CDATA[Gegrilde groente met pasta]]></title>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2015/05/09/gegrilde-groente-pasta/"/>
     <updated>2015-05-09T20:53:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2015/05/09/gegrilde-groente-pasta</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/gegrilde-groente-pasta.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2015/05/09/gegrilde-groente-pasta</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/gegrilde-groente-pasta.jpg" title="" ></p>
 
 <!--more-->
 
@@ -63,10 +63,10 @@
   
   <entry>
     <title type="html"><![CDATA[Lamsworstjes met zure sla]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2015/04/21/lamsworstjes-zure-sla/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2015/04/21/lamsworstjes-zure-sla/"/>
     <updated>2015-04-21T20:53:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2015/04/21/lamsworstjes-zure-sla</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/lamsworkstjes-zure-sla.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2015/04/21/lamsworstjes-zure-sla</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/lamsworkstjes-zure-sla.jpg" title="" ></p>
 
 <!--more-->
 
@@ -109,10 +109,10 @@
   
   <entry>
     <title type="html"><![CDATA[Broodje Ros]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2015/04/20/broodje-ros/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2015/04/20/broodje-ros/"/>
     <updated>2015-04-20T20:53:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2015/04/20/broodje-ros</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/broodje-ros.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2015/04/20/broodje-ros</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/broodje-ros.jpg" title="" ></p>
 
 <!--more-->
 
@@ -150,10 +150,10 @@
   
   <entry>
     <title type="html"><![CDATA[Frisse marrokaanse rijst met kip]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2014/04/24/snelle-marrokaanse-couscous/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2014/04/24/snelle-marrokaanse-couscous/"/>
     <updated>2014-04-24T20:53:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2014/04/24/snelle-marrokaanse-couscous</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/marrokaans-couscous.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2014/04/24/snelle-marrokaanse-couscous</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/marrokaans-couscous.jpg" title="" ></p>
 
 <!--more-->
 
@@ -197,10 +197,10 @@
   
   <entry>
     <title type="html"><![CDATA[Frisse Marokkaanse rijst met kip]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2014/04/24/frisse-marokkaans-rijst-met-kip/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2014/04/24/frisse-marokkaans-rijst-met-kip/"/>
     <updated>2014-04-24T20:53:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2014/04/24/frisse-marokkaans-rijst-met-kip</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/marokkaans-kip-rijst-bord.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2014/04/24/frisse-marokkaans-rijst-met-kip</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/marokkaans-kip-rijst-bord.jpg" title="" ></p>
 
 <!--more-->
 
@@ -226,7 +226,7 @@
 </ul>
 
 
-<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/marokkaans-kip-rijst-plank.jpg" title="" ></p>
+<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/marokkaans-kip-rijst-plank.jpg" title="" ></p>
 
 <h2>Bereiding:</h2>
 
@@ -247,10 +247,10 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
   
   <entry>
     <title type="html"><![CDATA[Moeders Thaise biefstuk salade]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2014/04/06/moeders-thaise-biefstuk-salade/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2014/04/06/moeders-thaise-biefstuk-salade/"/>
     <updated>2014-04-06T09:40:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2014/04/06/moeders-thaise-biefstuk-salade</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/thaise-biefstuk-salade-bord.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2014/04/06/moeders-thaise-biefstuk-salade</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/thaise-biefstuk-salade-bord.jpg" title="" ></p>
 
 <!--more-->
 
@@ -265,7 +265,9 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
 <li>1 bosje verse koriander</li>
 <li>1 bosje radijs</li>
 <li>eventueel wat bosui</li>
-<li>geroosterde pinda’s</li>
+<li>geroosterde pinda’s en sesamzaadjes</li>
+<li>jonge bladsla met spinazie of een andere frisse sla</li>
+<li>Komkommer</li>
 </ul>
 
 
@@ -282,7 +284,7 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
 </ul>
 
 
-<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/thaise-biefstuk-salade-plank.jpg" title="" ></p>
+<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/thaise-biefstuk-salade-plank.jpg" title="" ></p>
 
 <p>bovenstaande onderdelen mengen in de keukenmachine of de vaste onderdelen eerst in de vijzel en daarna mengen met de vloeistoffen</p>
 
@@ -294,7 +296,7 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
 
 <ol>
 <li>de noedels</li>
-<li>daarop sla (jonge bladsla met spinazie bijvoorbeeld)</li>
+<li>daarop sla en komkommer.</li>
 <li>een paar klein gesneden radijsjes</li>
 <li>een paar fijngesneden blaadjes munt</li>
 <li>de fijngesneden koriander</li>
@@ -311,10 +313,10 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
   
   <entry>
     <title type="html"><![CDATA[Gekarameliseerde pecannoten salade]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2014/04/06/gekarameliseerde-pecannoten-salade/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2014/04/06/gekarameliseerde-pecannoten-salade/"/>
     <updated>2014-04-06T09:24:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2014/04/06/gekarameliseerde-pecannoten-salade</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/pecan-noten-salade-bord.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2014/04/06/gekarameliseerde-pecannoten-salade</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/pecan-noten-salade-bord.jpg" title="" ></p>
 
 <!--more-->
 
@@ -323,7 +325,7 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
 
 <p>Snij &amp; meng de andere ingrediënten, maak de dressing op en gooi alles bij elkaar!</p>
 
-<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/pecan-noten-salade-maken.jpg" title="" ></p>
+<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/pecan-noten-salade-maken.jpg" title="" ></p>
 
 <h2>Ingrediënten</h2>
 
@@ -365,10 +367,10 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
   
   <entry>
     <title type="html"><![CDATA[Zuurdesembrood met rosbief, truffelpasta, champions]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel/"/>
     <updated>2013-12-15T16:01:00+01:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/zuurdesum-rosbief.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/zuurdesum-rosbief.jpg" title="" ></p>
 
 <!--more-->
 
@@ -389,10 +391,10 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
   
   <entry>
     <title type="html"><![CDATA[Snelle Gado Gado]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2013/12/11/snelle-gado-gado/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/12/11/snelle-gado-gado/"/>
     <updated>2013-12-11T15:56:00+01:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2013/12/11/snelle-gado-gado</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/snelle-gado-gado.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2013/12/11/snelle-gado-gado</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/snelle-gado-gado.jpg" title="" ></p>
 
 <!--more-->
 
@@ -421,10 +423,10 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
   
   <entry>
     <title type="html"><![CDATA[Broodje Gyros]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2013/09/01/broodje-gyros/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/09/01/broodje-gyros/"/>
     <updated>2013-09-01T18:48:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2013/09/01/broodje-gyros</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/broodje-gyros.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2013/09/01/broodje-gyros</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/broodje-gyros.jpg" title="" ></p>
 
 <!--more-->
 
@@ -446,10 +448,10 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
   
   <entry>
     <title type="html"><![CDATA[Broodje Hummus]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus/"/>
     <updated>2013-08-24T16:12:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/broodje-hummus.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/broodje-hummus.jpg" title="" ></p>
 
 <!--more-->
 
@@ -471,10 +473,10 @@ er over, zonnebloempitjes er over heen en een beetje van de yoghurt er op kwakke
   
   <entry>
     <title type="html"><![CDATA[Vrolijke fruitsalade]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2013/07/08/vrolijke-fruitsalade/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2013/07/08/vrolijke-fruitsalade/"/>
     <updated>2013-07-08T16:20:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2013/07/08/vrolijke-fruitsalade</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://alex.nederlof.com/kookboek/images/posts/vrolijke-fruitsalade.jpg" title="" ></p>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2013/07/08/vrolijke-fruitsalade</id>
+    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="http://kookboek.nederlof.com/kookboek/images/posts/vrolijke-fruitsalade.jpg" title="" ></p>
 
 <!--more-->
 

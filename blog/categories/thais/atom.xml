@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Thais | Kookboek]]></title>
-  <link href="http://alex.nederlof.com/kookboek/blog/categories/thais/atom.xml" rel="self"/>
-  <link href="http://alex.nederlof.com/kookboek/"/>
-  <updated>2015-05-09T13:27:07+02:00</updated>
-  <id>http://alex.nederlof.com/kookboek/</id>
+  <link href="http://kookboek.nederlof.com/kookboek/blog/categories/thais/atom.xml" rel="self"/>
+  <link href="http://kookboek.nederlof.com/kookboek/"/>
+  <updated>2015-05-09T13:36:39+02:00</updated>
+  <id>http://kookboek.nederlof.com/kookboek/</id>
   <author>
     <name><![CDATA[Alex Nederlof]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Moeders Thaise biefstuk salade]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2014/04/06/moeders-thaise-biefstuk-salade/"/>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2014/04/06/moeders-thaise-biefstuk-salade/"/>
     <updated>2014-04-06T09:40:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2014/04/06/moeders-thaise-biefstuk-salade</id>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2014/04/06/moeders-thaise-biefstuk-salade</id>
     <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/thaise-biefstuk-salade-bord.jpg" title="" ></p>
 
 <!--more-->
@@ -33,7 +33,9 @@
 <li>1 bosje verse koriander</li>
 <li>1 bosje radijs</li>
 <li>eventueel wat bosui</li>
-<li>geroosterde pinda’s</li>
+<li>geroosterde pinda’s en sesamzaadjes</li>
+<li>jonge bladsla met spinazie of een andere frisse sla</li>
+<li>Komkommer</li>
 </ul>
 
 
@@ -62,7 +64,7 @@
 
 <ol>
 <li>de noedels</li>
-<li>daarop sla (jonge bladsla met spinazie bijvoorbeeld)</li>
+<li>daarop sla en komkommer.</li>
 <li>een paar klein gesneden radijsjes</li>
 <li>een paar fijngesneden blaadjes munt</li>
 <li>de fijngesneden koriander</li>

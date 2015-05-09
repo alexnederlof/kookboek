@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Groente | Kookboek]]></title>
-  <link href="http://alex.nederlof.com/kookboek/blog/categories/groente/atom.xml" rel="self"/>
-  <link href="http://alex.nederlof.com/kookboek/"/>
-  <updated>2015-05-09T13:27:07+02:00</updated>
-  <id>http://alex.nederlof.com/kookboek/</id>
+  <link href="http://kookboek.nederlof.com/kookboek/blog/categories/groente/atom.xml" rel="self"/>
+  <link href="http://kookboek.nederlof.com/kookboek/"/>
+  <updated>2015-05-09T13:36:39+02:00</updated>
+  <id>http://kookboek.nederlof.com/kookboek/</id>
   <author>
     <name><![CDATA[Alex Nederlof]]></name>
     
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Lamsworstjes met zure sla]]></title>
-    <link href="http://alex.nederlof.com/kookboek/blog/2015/05/09/gegrilde-groente-pasta/"/>
+    <title type="html"><![CDATA[Gegrilde groente met pasta]]></title>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2015/05/09/gegrilde-groente-pasta/"/>
     <updated>2015-05-09T20:53:00+02:00</updated>
-    <id>http://alex.nederlof.com/kookboek/blog/2015/05/09/gegrilde-groente-pasta</id>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2015/05/09/gegrilde-groente-pasta</id>
     <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/gegrilde-groente-pasta.jpg" title="" ></p>
 
 <!--more-->
