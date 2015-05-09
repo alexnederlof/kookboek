@@ -20,7 +20,9 @@ categories: [Sla, Thais]
 - 1 bosje verse koriander
 - 1 bosje radijs
 - eventueel wat bosui
-- geroosterde pinda’s
+- geroosterde pinda’s en sesamzaadjes
+- jonge bladsla met spinazie of een andere frisse sla
+- Komkommer
 
 ### Dressing
 
@@ -43,7 +45,7 @@ iets minder dan de helft van de dressing door de noedels mengen
 leg in een diep bord of een schaal:
 
 1. de noedels
-2. daarop sla (jonge bladsla met spinazie bijvoorbeeld)
+2. daarop sla en komkommer.
 3. een paar klein gesneden radijsjes
 4. een paar fijngesneden blaadjes munt
 5. de fijngesneden koriander
