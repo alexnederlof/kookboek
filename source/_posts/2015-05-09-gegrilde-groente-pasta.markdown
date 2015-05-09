@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lamsworstjes met zure sla"
+title: "Gegrilde groente met pasta"
 date: 2015-05-09 20:53
 comments: true
 categories: [Groente, Pasta]
