@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Grieks | Kookboek]]></title>
   <link href="http://kookboek.nederlof.com/kookboek/blog/categories/grieks/atom.xml" rel="self"/>
   <link href="http://kookboek.nederlof.com/kookboek/"/>
-  <updated>2015-05-09T13:36:39+02:00</updated>
+  <updated>2015-12-15T08:28:08+01:00</updated>
   <id>http://kookboek.nederlof.com/kookboek/</id>
   <author>
     <name><![CDATA[Alex Nederlof]]></name>
@@ -18,7 +18,7 @@
     <link href="http://kookboek.nederlof.com/kookboek/blog/2013/09/01/broodje-gyros/"/>
     <updated>2013-09-01T18:48:00+02:00</updated>
     <id>http://kookboek.nederlof.com/kookboek/blog/2013/09/01/broodje-gyros</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/broodje-gyros.jpg" title="" ></p>
+    <content type="html"><![CDATA[<p>{% img col-sm-12 img-responsive /images/posts/broodje-gyros.jpg  %}</p>
 
 <!--more-->
 

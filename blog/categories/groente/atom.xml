@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Groente | Kookboek]]></title>
   <link href="http://kookboek.nederlof.com/kookboek/blog/categories/groente/atom.xml" rel="self"/>
   <link href="http://kookboek.nederlof.com/kookboek/"/>
-  <updated>2015-05-09T13:36:39+02:00</updated>
+  <updated>2015-12-15T08:28:08+01:00</updated>
   <id>http://kookboek.nederlof.com/kookboek/</id>
   <author>
     <name><![CDATA[Alex Nederlof]]></name>
@@ -14,11 +14,36 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Zure groente pasta]]></title>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2015/12/15/zure-groente-pasta/"/>
+    <updated>2015-12-15T08:23:00+01:00</updated>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2015/12/15/zure-groente-pasta</id>
+    <content type="html"><![CDATA[<p>Voor 2-3 personen</p>
+
+<ul>
+<li>250 gram verse lasagne blazen, geknipt tot lekkere brede stroken</li>
+<li>Pot doperwten van 230g</li>
+<li>Pot Tuinbonen van 230g</li>
+<li>Gegrilde asperges</li>
+<li>extra virgin olijfolie</li>
+<li>rasp en sap van 1 citroen</li>
+<li>klein bosje fijngehakte munt</li>
+<li>handvol geraspte pecorino of parmezaan</li>
+<li>Verse zwarte peper om op smaak te brengen</li>
+<li>Kan ook met rucula geserveerd worden</li>
+</ul>
+
+
+<p>Blancheer de asperges en gril ze. Kook de pasta (in het water waar je net de asperges in blancheerde). Rasp ondertussen de citroen en meng het met een deel van de gesneden munt en olijf olie. Roer alles door elkaar. Pasta er bij. Parmezaan, peper en laatste beetje munt er over doen en dan genieten.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Gegrilde groente met pasta]]></title>
     <link href="http://kookboek.nederlof.com/kookboek/blog/2015/05/09/gegrilde-groente-pasta/"/>
     <updated>2015-05-09T20:53:00+02:00</updated>
     <id>http://kookboek.nederlof.com/kookboek/blog/2015/05/09/gegrilde-groente-pasta</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/gegrilde-groente-pasta.jpg" title="" ></p>
+    <content type="html"><![CDATA[<p>{% img col-sm-12 img-responsive /images/posts/gegrilde-groente-pasta.jpg  %}</p>
 
 <!--more-->
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Brood | Kookboek]]></title>
   <link href="http://kookboek.nederlof.com/kookboek/blog/categories/brood/atom.xml" rel="self"/>
   <link href="http://kookboek.nederlof.com/kookboek/"/>
-  <updated>2015-05-09T13:36:39+02:00</updated>
+  <updated>2015-12-15T08:28:08+01:00</updated>
   <id>http://kookboek.nederlof.com/kookboek/</id>
   <author>
     <name><![CDATA[Alex Nederlof]]></name>
@@ -18,7 +18,7 @@
     <link href="http://kookboek.nederlof.com/kookboek/blog/2015/04/21/lamsworstjes-zure-sla/"/>
     <updated>2015-04-21T20:53:00+02:00</updated>
     <id>http://kookboek.nederlof.com/kookboek/blog/2015/04/21/lamsworstjes-zure-sla</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/lamsworkstjes-zure-sla.jpg" title="" ></p>
+    <content type="html"><![CDATA[<p>{% img col-sm-12 img-responsive /images/posts/lamsworkstjes-zure-sla.jpg  %}</p>
 
 <!--more-->
 
@@ -64,7 +64,7 @@
     <link href="http://kookboek.nederlof.com/kookboek/blog/2015/04/20/broodje-ros/"/>
     <updated>2015-04-20T20:53:00+02:00</updated>
     <id>http://kookboek.nederlof.com/kookboek/blog/2015/04/20/broodje-ros</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/broodje-ros.jpg" title="" ></p>
+    <content type="html"><![CDATA[<p>{% img col-sm-12 img-responsive /images/posts/broodje-ros.jpg  %}</p>
 
 <!--more-->
 
@@ -105,7 +105,7 @@
     <link href="http://kookboek.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel/"/>
     <updated>2013-12-15T16:01:00+01:00</updated>
     <id>http://kookboek.nederlof.com/kookboek/blog/2013/12/15/zuurdesum-rosbief-truffel</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/zuurdesum-rosbief.jpg" title="" ></p>
+    <content type="html"><![CDATA[<p>{% img col-sm-12 img-responsive /images/posts/zuurdesum-rosbief.jpg  %}</p>
 
 <!--more-->
 
@@ -129,7 +129,7 @@
     <link href="http://kookboek.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus/"/>
     <updated>2013-08-24T16:12:00+02:00</updated>
     <id>http://kookboek.nederlof.com/kookboek/blog/2013/08/24/broodje-hummus</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/broodje-hummus.jpg" title="" ></p>
+    <content type="html"><![CDATA[<p>{% img col-sm-12 img-responsive /images/posts/broodje-hummus.jpg  %}</p>
 
 <!--more-->
 

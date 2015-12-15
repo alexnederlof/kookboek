@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Lam | Kookboek]]></title>
   <link href="http://kookboek.nederlof.com/kookboek/blog/categories/lam/atom.xml" rel="self"/>
   <link href="http://kookboek.nederlof.com/kookboek/"/>
-  <updated>2015-05-09T13:36:39+02:00</updated>
+  <updated>2015-12-15T08:28:08+01:00</updated>
   <id>http://kookboek.nederlof.com/kookboek/</id>
   <author>
     <name><![CDATA[Alex Nederlof]]></name>
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Frisse marrokaanse rijst met kip]]></title>
-    <link href="http://kookboek.nederlof.com/kookboek/blog/2014/04/24/snelle-marrokaanse-couscous/"/>
-    <updated>2014-04-24T20:53:00+02:00</updated>
-    <id>http://kookboek.nederlof.com/kookboek/blog/2014/04/24/snelle-marrokaanse-couscous</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/marrokaans-couscous.jpg" title="" ></p>
+    <link href="http://kookboek.nederlof.com/kookboek/blog/2015/02/16/snelle-marrokaanse-couscous/"/>
+    <updated>2015-02-16T20:53:00+01:00</updated>
+    <id>http://kookboek.nederlof.com/kookboek/blog/2015/02/16/snelle-marrokaanse-couscous</id>
+    <content type="html"><![CDATA[<p>{% img col-sm-12 img-responsive /images/posts/marrokaans-couscous.jpg  %}</p>
 
 <!--more-->
 

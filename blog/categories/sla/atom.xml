@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Sla | Kookboek]]></title>
   <link href="http://kookboek.nederlof.com/kookboek/blog/categories/sla/atom.xml" rel="self"/>
   <link href="http://kookboek.nederlof.com/kookboek/"/>
-  <updated>2015-05-09T13:36:39+02:00</updated>
+  <updated>2015-12-15T08:28:08+01:00</updated>
   <id>http://kookboek.nederlof.com/kookboek/</id>
   <author>
     <name><![CDATA[Alex Nederlof]]></name>
@@ -18,7 +18,7 @@
     <link href="http://kookboek.nederlof.com/kookboek/blog/2014/04/06/moeders-thaise-biefstuk-salade/"/>
     <updated>2014-04-06T09:40:00+02:00</updated>
     <id>http://kookboek.nederlof.com/kookboek/blog/2014/04/06/moeders-thaise-biefstuk-salade</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/thaise-biefstuk-salade-bord.jpg" title="" ></p>
+    <content type="html"><![CDATA[<p>{% img col-sm-12 img-responsive /images/posts/thaise-biefstuk-salade-bord.jpg  %}</p>
 
 <!--more-->
 
@@ -52,7 +52,7 @@
 </ul>
 
 
-<p><img class="col-sm-12 img-responsive" src="/images/posts/thaise-biefstuk-salade-plank.jpg" title="" ></p>
+<p>{% img col-sm-12 img-responsive /images/posts/thaise-biefstuk-salade-plank.jpg  %}</p>
 
 <p>bovenstaande onderdelen mengen in de keukenmachine of de vaste onderdelen eerst in de vijzel en daarna mengen met de vloeistoffen</p>
 
@@ -84,7 +84,7 @@
     <link href="http://kookboek.nederlof.com/kookboek/blog/2014/04/06/gekarameliseerde-pecannoten-salade/"/>
     <updated>2014-04-06T09:24:00+02:00</updated>
     <id>http://kookboek.nederlof.com/kookboek/blog/2014/04/06/gekarameliseerde-pecannoten-salade</id>
-    <content type="html"><![CDATA[<p><img class="col-sm-12 img-responsive" src="/images/posts/pecan-noten-salade-bord.jpg" title="" ></p>
+    <content type="html"><![CDATA[<p>{% img col-sm-12 img-responsive /images/posts/pecan-noten-salade-bord.jpg  %}</p>
 
 <!--more-->
 
@@ -93,7 +93,7 @@
 
 <p>Snij &amp; meng de andere ingrediënten, maak de dressing op en gooi alles bij elkaar!</p>
 
-<p><img class="col-sm-12 img-responsive" src="/images/posts/pecan-noten-salade-maken.jpg" title="" ></p>
+<p>{% img col-sm-12 img-responsive /images/posts/pecan-noten-salade-maken.jpg  %}</p>
 
 <h2>Ingrediënten</h2>
 
